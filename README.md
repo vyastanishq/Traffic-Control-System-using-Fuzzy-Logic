@@ -1,1 +1,5 @@
 # Traffic-Control-System-using-Fuzzy-Logic
+numpy==1.14.3
+pygame==1.9.4
+scikit-fuzzy==0.3.1
+scipy==1.1.0
